@@ -1,5 +1,5 @@
 ## Hola 👋
-Soy Edinson Panta: Programador, estudiante, investigador y recolector de experiencias.
+Soy Edinson Panta: Mi nickname es @bitpang98, programador, estudiante, investigador y recolector de experiencias que disfruto al trabajar de manera remota.
 
 ### Hi there 👋
 
