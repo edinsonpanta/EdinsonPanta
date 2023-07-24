@@ -1,9 +1,13 @@
-## Hola 👋
-Soy Edinson Panta: Mi nickname es @bitpang98, programador, estudiante, investigador y recolector de experiencias que disfruto al trabajar de manera remota 😎.
+<h1 align='center'>
+  Hi there 👋 I'm Edinson Panta 👨‍💻
+</h1>
 
-  ![github info 1](https://github-readme-stats.vercel.app/api?username=EdinsonPanta&show_icons=true&theme=nord&include_all_commits=true)
-  
-  ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonPanta&langs_count=14&theme=nord&layout=compact)
+<p align='center'>
+  A backend and scripting developer remote 😎.
+</p>
+
+![github info 1](https://github-readme-stats.vercel.app/api?username=EdinsonPanta&show_icons=true&theme=dark&include_all_commits=true)
+![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonPanta&langs_count=14&theme=dark&layout=compact)
 
 ## Lenguajes de Programación
 
