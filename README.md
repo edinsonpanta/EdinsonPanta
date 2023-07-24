@@ -1,39 +1,20 @@
 ## Hola 👋
-Soy Edinson Panta: Mi nickname es @bitpang98, programador, estudiante, investigador y recolector de experiencias que disfruto al trabajar de manera remota.
-
-### Hi there 👋
+Soy Edinson Panta: Mi nickname es @bitpang98, programador, estudiante, investigador y recolector de experiencias que disfruto al trabajar de manera remota 😎.
 
   ![github info 1](https://github-readme-stats.vercel.app/api?username=EdinsonPanta&show_icons=true&theme=nord&include_all_commits=true)
   
   ![github info 2](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonPanta&langs_count=14&theme=nord&layout=compact)
 
-Here are some ideas to get you started:
+## Lenguajes de Programación
 
-- 🔭 I’m currently working on 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-- 🌱 I’m currently learning *something*
 
-- 👯 I’m looking to collaborate on *something* (again)
 
-- 🤔 I’m looking for help with *something* ( ͡• ͜ʖ ͡•)
-
-- 💬 Ask me about *something* ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
-
-- 📫 How to reach me:
-     - mail: edinsonpantagarcia98@gmail.com
-     - discord: 
-
-- 🎨 Hobbys: Lockpicking, senet and chess.
-     
-- ⚡ Fun fact: I am someone..... 😜
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes Sociales
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pe.linkedin.com/in/edinsonpantagarcia/)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3FNZMoTsfXlWXPQv_nxN2w)
