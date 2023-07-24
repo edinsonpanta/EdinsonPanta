@@ -1,3 +1,6 @@
+## Hola 👋
+Soy Edinson Panta: Programador, estudiante, investigador y recolector de experiencias.
+
 ### Hi there 👋
 
   ![github info 1](https://github-readme-stats.vercel.app/api?username=EdinsonPanta&show_icons=true&theme=nord&include_all_commits=true)
